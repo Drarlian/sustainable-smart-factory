@@ -1,6 +1,8 @@
 """
 Fábrica Inteligente Sustentável — Exercício Integrador (NumPy, Pandas, Matplotlib, Scikit‑learn, TensorFlow)
 
+O projeto também pode ser encontrado no gitgub: https://github.com/Drarlian/sustainable-smart-factory.git
+
 O script foi escrito para ser didático e robusto:
 - Precisa do arquivo fabrica_energia.csv, no mesmo diretório do script para funcionar.
 - Gera um relatório em texto com estatísticas básicas.
