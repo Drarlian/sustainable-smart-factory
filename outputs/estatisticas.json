@@ -1,0 +1,10 @@
+{
+  "media_consumo": 299.5,
+  "desvio_padrao_consumo": 43.74484096566258,
+  "total_consumo": 2995.0,
+  "dia_maior_consumo": 6,
+  "valor_maior_consumo": 360.0,
+  "dia_menor_consumo": 5,
+  "valor_menor_consumo": 210.0,
+  "n_registros": 10
+}

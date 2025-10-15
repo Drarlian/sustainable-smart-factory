@@ -1,0 +1,11 @@
+dia,horas_trabalhadas,unidades_produzidas,consumo_kwh,maquina
+1,6,58,260,A
+2,7,65,300,B
+3,8,72,310,A
+4,9,85,330,B
+5,5,45,210,A
+6,10,95,360,B
+7,6,55,270,A
+8,9,80,340,B
+9,7,68,295,A
+10,8,75,320,B
